@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm-Odev", "WindowsForm-Odev\WindowsForm-Odev.csproj", "{65F78AD8-9EB3-418C-8737-1A900627BB41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesiForm-Odev", "WindowsForm-Odev\HesapMakinesiForm-Odev.csproj", "{65F78AD8-9EB3-418C-8737-1A900627BB41}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SesliSessizHarf-Odev", "SesliSessizHarf-Odev\SesliSessizHarf-Odev.csproj", "{1CF06333-2196-4416-82FB-19E5AEE06C5B}"
 EndProject
